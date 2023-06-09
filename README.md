@@ -15,8 +15,8 @@
 - ✍️ Exploring Technical Content Writing.
 
 - 🧑‍🤝‍🧑 I help other mobile developers.
-### 🤙: Contact Me :
-<div id="badges" align="center">
+### 🤙 Contact Me :
+<div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
