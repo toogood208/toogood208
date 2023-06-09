@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=toogood208&style=flat-square&color=blue" alt=""/>
 
 ![I am a mobile developer](https://github.com/toogood208/toogood208/blob/main/Black%20and%20Green%20Modern%20Your%20Sport%20Game%20Background%20Banner%20.png)
 
