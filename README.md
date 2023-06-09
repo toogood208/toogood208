@@ -1,1 +1,3 @@
-“I have just over a year of experience as a junior software engineer with First Technology. In my short time there, I've already contributed to over a dozen projects and assisted with managing one project for one of the firm's long-time clients.
+Hi,
+I am mobile developer with experience with developing native and cross-platform apps, i am passionate about tech, innovation and using my skills to solve real life problems,
+Presently, i am commited to cross platform development, with flutter as it allows me build for different o.s from one code base.
