@@ -29,7 +29,7 @@
 
 - ✍️ Exploring Technical Content Writing.
 
-- 🧑‍🤝‍🧑: In my free time, I help other mobile developers.
+- 🧑‍🤝‍🧑 I help other mobile developers.
 
 
 Skills: Dart/ Flutter / Firebase / CICD / Android-Development
