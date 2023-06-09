@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" **alt="dart" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" **alt="dart" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" **alt="kotlin" width="40" height="40"/>
 </div>
 
 
