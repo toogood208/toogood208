@@ -19,7 +19,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="600" height="300"/>
 </div>
 
 ### Hi 👋, my name is Ikem Frank
