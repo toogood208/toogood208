@@ -18,7 +18,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-![I am a mobile developer](https://github.com/toogood208/toogood208/blob/main/Black%20and%20Green%20Modern%20Your%20Sport%20Game%20Background%20Banner%20.png)
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="600" height="300"/>
+</div>
 
 ### Hi 👋, my name is Ikem Frank
 #### I am a mobile developer
