@@ -35,7 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" **alt="dart" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" **alt="kotlin" width="40" height="40"/>
 </div>
+
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toogood208&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
