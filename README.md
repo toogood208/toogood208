@@ -10,6 +10,10 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=toogood208&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ![I am a mobile developer](https://github.com/toogood208/toogood208/blob/main/Black%20and%20Green%20Modern%20Your%20Sport%20Game%20Background%20Banner%20.png)
 
