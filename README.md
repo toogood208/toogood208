@@ -22,6 +22,8 @@
   <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="600" height="300"/>
 </div>
 
+### :woman_technologist: About Me :
+
 ### Hi 👋, my name is Ikem Frank
 #### I am a mobile developer
 
