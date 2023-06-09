@@ -6,7 +6,7 @@ Hi, I am a mobile developer with experience with developing native and cross-pla
 
 Skills: Dart/ Flutter / Firebase / CICD / Android-Development
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page. x
 
 
 
