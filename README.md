@@ -25,13 +25,12 @@
 ### :man_technologist: About Me :
  I  am a mobile developer with in experience with developing native and cross-platform apps, I am passionate about tech, innovation and using my skills to solve real-life problems, Presently, I am committed to cross-platform development, with Flutter as it allows me to build for different o.s from one code base.
  
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 👷‍♂️ I build and implement mobile applications.
 
-- :seedling: Exploring Technical Content Writing.
+- ✍️ Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🧑‍🤝‍🧑: In my free time, I help other mobile developers.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 Skills: Dart/ Flutter / Firebase / CICD / Android-Development
 
