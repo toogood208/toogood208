@@ -1,4 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="100"/>
+</div>
+
 ![I am a mobile developer](https://github.com/toogood208/toogood208/blob/main/Black%20and%20Green%20Modern%20Your%20Sport%20Game%20Background%20Banner%20.png)
+
 ### Hi 👋, my name is Ikem Frank
 #### I am a mobile developer
 
