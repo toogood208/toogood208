@@ -23,10 +23,4 @@ Flutter • ASP.NET Core • React • Next.js • React Native
 ### Databases
 Firebase • SQL • Entity Framework Core
 
-## 📈 GitHub Stats
 
-...
-
-## 🤝 Connect With Me
-
-...
